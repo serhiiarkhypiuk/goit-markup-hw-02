@@ -141,6 +141,10 @@ button {
   cursor: pointer;
 }
 
+.hero .button:hover {
+  background-color: #188ce8;
+}
+
 .qualities-list {
   list-style-type: none;
 }
